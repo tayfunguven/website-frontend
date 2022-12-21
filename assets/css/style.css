@@ -1,0 +1,180 @@
+body {
+    font-family: 'Roboto', sans-serif;
+
+    background-color: red;
+}
+
+
+#carouselLanding {
+    margin-top: 120px;
+    height: 820px;
+}
+
+#carouselLanding .carousel-inner .row {
+    align-items: center;
+    justify-content: center;
+    margin: 50px;
+}
+
+#carouselLanding .carousel-inner .row img {
+    padding-left: 3px;
+    padding-bottom: 10px;
+    width: 350px;
+    height: auto;
+}
+
+#carouselLanding .carousel-inner .row h1 {
+    font-weight: bold;
+    font-size: 40px;
+
+    padding-bottom: 30px;
+}
+
+#carouselLanding .carousel-inner .row p {
+    font-size: 24px;
+}
+
+#carouselLanding .carousel-inner .row object {
+    width: 900px;
+    height: auto;
+}
+
+#arrow-separator {
+    justify-content: center;
+    align-items: center;
+    text-align:center;
+    background: #ffd0c5;
+}
+
+#arrow-separator img {
+   height: 200px;
+   margin-top: 30px;
+}
+
+#about .row {
+    justify-content: center;
+    align-items: center;
+    text-align: start;
+    margin: 50px 50px 50px 0;
+    
+}
+
+#about .row object {
+    height: 800px;
+}
+
+
+
+#solutions-top .row{
+    justify-content: center;
+    align-items: center;
+    text-align: start;
+    margin: 50px 50px 50px 0;
+}
+
+#solutions-top .row .col-9{
+    padding: 145px;
+}
+
+
+#solutions-top .row .col-9 h2 {
+    font-weight: bold;
+    font-size: 35px;
+}
+
+#solutions-top .row .col-9 h1 {
+    font-weight: bold;
+    font-size: 50px;
+    padding-bottom: 30px;
+}
+
+#solutions-top .row .col-9 p {
+    font-size: 22px;
+}
+
+#solutions-top .row .col-3 img {
+    width: 700px;
+}
+
+#solutions-mid .row{
+    justify-content: center;
+    align-items: center;
+    text-align: end;
+    margin: 50px 0 50px 50px;
+}
+
+#solutions-mid .row .col-9{
+    padding: 145px;
+}
+
+#solutions-mid .row .col-9 h2 {
+    font-weight: bold;
+    font-size: 35px;
+}
+
+#solutions-mid .row .col-9 h1 {
+    font-weight: bold;
+    font-size: 50px;
+    padding-bottom: 30px;
+}
+
+#solutions-mid .row .col-9 p {
+    font-size: 22px;
+}
+
+#solutions-mid .row .col-9 img {
+    width: 800px;
+}
+
+
+#solutions-bottom .row{
+    justify-content: center;
+    align-items: center;
+    text-align: start;
+    margin: 50px 50px 50px 0;
+}
+
+#solutions-bottom .row .col-9{
+    padding: 145px;
+}
+
+
+#solutions-bottom .row .col-9 h2 {
+    font-weight: bold;
+    font-size: 35px;
+}
+
+#solutions-bottom .row .col-9 h1 {
+    font-weight: bold;
+    font-size: 50px;
+    padding-bottom: 30px;
+}
+
+#solutions-bottom .row .col-9 p {
+    font-size: 22px;
+}
+
+#solutions-bottom .row .col-3 img {
+    width: 700px;
+}
+
+
+#services .row .col {
+    padding: 200px;
+    background-image: url('https://mdbootstrap.com/img/new/standard/city/041.jpg');
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#brands-top .row {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background: rgb(224, 224, 224);
+}
+
+#brands-top .row h1 {
+    font-size: 20px;
+}
